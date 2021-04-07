@@ -1,4 +1,4 @@
-# admin-dashboard
+# Admin dashboard
 
 ## Project setup
 ```
